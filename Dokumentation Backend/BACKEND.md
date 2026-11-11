@@ -5,7 +5,7 @@ Technology Stack
 FastAPI for the REST API.
 SQLAlchemy for database access and PostgreSQL for storing curves, imputation results, and ratings.
 uv for managing Python dependencies.
-Pytest for backend unit and integration tests, and **Ruff** for linting and formatting.
+Pytest for backend unit and integration tests.
 Docker Compose to run the frontend, backend, and database together. The team’s CI pipeline will run automated tests.
 
 Backend Responsibilities
